@@ -1,0 +1,14 @@
+{
+  "version": "1.0",
+  "name": "gatsby-v2-starter-lumen",
+  "description": null,
+  "icons": {
+    "60": "/icons-f466a9412a08a835c55bae913598dd32/firefox_app_60x60.png",
+    "128": "/icons-f466a9412a08a835c55bae913598dd32/firefox_app_128x128.png",
+    "512": "/icons-f466a9412a08a835c55bae913598dd32/firefox_app_512x512.png"
+  },
+  "developer": {
+    "name": null,
+    "url": null
+  }
+}

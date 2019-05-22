@@ -26,35 +26,38 @@ workbox.clientsClaim();
  */
 self.__precacheManifest = [
   {
-    "url": "webpack-runtime-33219694a5802be09664.js"
+    "url": "webpack-runtime-1c140946058d1df7e080.js"
   },
   {
-    "url": "app-10362ea0eee4a4294394.js"
+    "url": "app-f832202edfdb62c723e9.js"
   },
   {
     "url": "component---node-modules-gatsby-plugin-offline-app-shell-js-a66da4191822ad62c310.js"
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "439a8762728e6118721b24e252b68041"
+    "revision": "13369d286b67cfe28a90cd6d763fee06"
   },
   {
-    "url": "2.cc3039629a936c37391b.css"
+    "url": "1.6dcc523ff70402190031.css"
   },
   {
-    "url": "component---src-pages-404-jsx-4658a7f38dbe963cf634.js"
+    "url": "component---src-pages-404-jsx.8b9d1aae16f96f1eecf6.css"
   },
   {
-    "url": "2-64479612bb7d52ce53ef.js"
+    "url": "component---src-pages-404-jsx-77886293077b9a663383.js"
   },
   {
-    "url": "1-26b4b2cc373f4f09fcd6.js"
+    "url": "0-848ed820fdbcd250260a.js"
   },
   {
-    "url": "0-c59c31ec7a4b69b4c6dc.js"
+    "url": "1-a85f923798a75cf3617d.js"
   },
   {
-    "url": "static/d/232/path---404-html-516-62a-BxjiC31NvzxVmKN2yi27PaATHY.json"
+    "url": "2-8cafbb84e62a9347c964.js"
+  },
+  {
+    "url": "static/d/940/path---404-html-516-62a-DkYqjgKlageFhZXrYxagwsYESo.json"
   },
   {
     "url": "static/d/520/path---offline-plugin-app-shell-fallback-a-30-c5a-NZuapzHg3X9TaN1iIixfv1W23E.json"
@@ -78,7 +81,7 @@ const navigationRoute = new workbox.routing.NavigationRoute(({ event }) => {
   return idbKeyval.get(WHITELIST_KEY).then((customWhitelist = []) => {
     // Respond with the offline shell if we match the custom whitelist
     if (customWhitelist.includes(pathname)) {
-      const offlineShell = `/gatsby-blog/offline-plugin-app-shell-fallback/index.html`
+      const offlineShell = `/blog/offline-plugin-app-shell-fallback/index.html`
       const cacheName = workbox.core.cacheNames.precache
 
       return caches.match(offlineShell, { cacheName }).then(cachedResponse => {
@@ -150,7 +153,7 @@ const messageApi = {
 
     pathnames = pathnames.map(({ pathname, includesPrefix }) => {
       if (!includesPrefix) {
-        return `/gatsby-blog${pathname}`
+        return `/blog${pathname}`
       } else {
         return pathname
       }

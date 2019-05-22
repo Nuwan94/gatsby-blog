@@ -1,32 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>https://lumen.netlify.com/gatsby-blog/posts/humane-typography-in-the-digital-age/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://lumen.netlify.com/gatsby-blog/tags/design/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://lumen.netlify.com/gatsby-blog/tags/typography/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://lumen.netlify.com/gatsby-blog/tags/web-development/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://lumen.netlify.com/gatsby-blog/categories/typography/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://lumen.netlify.com/gatsby-blog/posts/perfecting-the-art-of-perfection/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://lumen.netlify.com/gatsby-blog/tags/handwriting/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://lumen.netlify.com/gatsby-blog/tags/learning-to-write/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://lumen.netlify.com/gatsby-blog/categories/design-inspiration/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://lumen.netlify.com/gatsby-blog/posts/the-origins-of-social-stationery-lettering</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://lumen.netlify.com/gatsby-blog/tags/typefaces/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://lumen.netlify.com/gatsby-blog/tags/lettering/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://lumen.netlify.com/gatsby-blog/tags/history/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://lumen.netlify.com/gatsby-blog/categories/design-culture/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://lumen.netlify.com/gatsby-blog/posts/upgraded-to-gatsby-v2/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://lumen.netlify.com/gatsby-blog/tags/gatsby/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://lumen.netlify.com/gatsby-blog/categories/gatsby/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://lumen.netlify.com/gatsby-blog/posts/the-birth-of-movable-type/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://lumen.netlify.com/gatsby-blog/tags/open-source/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://lumen.netlify.com/gatsby-blog/about</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://lumen.netlify.com/gatsby-blog/posts/a-brief-history-of-typography/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://lumen.netlify.com/gatsby-blog/tags/linotype/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://lumen.netlify.com/gatsby-blog/tags/monotype/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://lumen.netlify.com/gatsby-blog/tags/history-of-typography/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://lumen.netlify.com/gatsby-blog/tags/helvetica/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://lumen.netlify.com/gatsby-blog/contact</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://lumen.netlify.com/gatsby-blog/categories/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://lumen.netlify.com/gatsby-blog/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://lumen.netlify.com/gatsby-blog/tags/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://nuwan.dev/blog/blog/posts/be-a-pro-student</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://nuwan.dev/blog/blog/tags/free/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://nuwan.dev/blog/blog/tags/university/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://nuwan.dev/blog/blog/tags/giveaway/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://nuwan.dev/blog/blog/categories/offers/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://nuwan.dev/blog/blog/about</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://nuwan.dev/blog/blog/contact</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://nuwan.dev/blog/blog/categories/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://nuwan.dev/blog/blog/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://nuwan.dev/blog/blog/tags/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
