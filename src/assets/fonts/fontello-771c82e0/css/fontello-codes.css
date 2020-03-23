@@ -1,0 +1,15 @@
+
+.icon-tags:before { content: '\e801'; } /* '' */
+.icon-github-pages:before { content: '\e802'; } /* '' */
+.icon-personal:before { content: '\e803'; } /* '' */
+.icon-twitter:before { content: '\f099'; } /* '' */
+.icon-facebook:before { content: '\f09a'; } /* '' */
+.icon-rss:before { content: '\f09e'; } /* '' */
+.icon-mail:before { content: '\f0e0'; } /* '' */
+.icon-linkedin:before { content: '\f0e1'; } /* '' */
+.icon-github:before { content: '\f113'; } /* '' */
+.icon-stackoverflow:before { content: '\f16c'; } /* '' */
+.icon-tumblr:before { content: '\f173'; } /* '' */
+.icon-skype:before { content: '\f17e'; } /* '' */
+.icon-telegram:before { content: '\f1d8'; } /* '' */
+.icon-whatsapp:before { content: '\f232'; } /* '' */

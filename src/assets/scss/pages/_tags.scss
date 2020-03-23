@@ -1,0 +1,25 @@
+/** 
+ * Tags
+ */
+
+.tags {
+    &__list {
+        list-style: none;
+        &-item {
+            display: inline-block;
+            background: #ebebeb;
+            margin: 0.2em 0.5em;
+            padding: 0.2em 0.75em;
+            border-radius: 0.1875rem;
+            transition: 0.2s;
+            &-link {
+                color: $color-base;
+                transition: 0.2s;
+            }
+            &:hover, &:focus {
+                background: $color-primary;
+                color: $color-white;
+            }
+        }
+    }
+}
