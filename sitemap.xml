@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>https://nuwan.dev/blog/blog/posts/be-a-pro-student</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://nuwan.dev/blog/blog/tags/free/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://nuwan.dev/blog/blog/tags/university/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://nuwan.dev/blog/blog/tags/giveaway/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://nuwan.dev/blog/blog/categories/offers/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://nuwan.dev/blog/blog/about</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://nuwan.dev/blog/blog/contact</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://nuwan.dev/blog/blog/categories/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://nuwan.dev/blog/blog/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://nuwan.dev/blog/blog/tags/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://blog.nuwan.dev/posts/be-a-pro-student</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://blog.nuwan.dev/tags/free/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://blog.nuwan.dev/tags/university/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://blog.nuwan.dev/tags/giveaway/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://blog.nuwan.dev/categories/offers/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://blog.nuwan.dev/about</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://blog.nuwan.dev/contact</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://blog.nuwan.dev/categories/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://blog.nuwan.dev/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://blog.nuwan.dev/tags/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
