@@ -10,6 +10,6 @@ Hello World! I'm Nuwan Sameera Alawatta currently reading a BSc.(Hons.) in Softw
 
 You can find more details about me in the following links :
 
-- Linkedin : [<i class="icon-linkedin"></i>](https://lk.linkedin.com/in/nsa94)
+- [<i class="icon-linkedin"></i>](https://lk.linkedin.com/in/nsa94) Linkedin
 
-- Personal web : [<i class="icon-personal"></i> ](https://nuwan.dev)
+- [<i class="icon-personal"></i> ](https://nuwan.dev) Personal Website
