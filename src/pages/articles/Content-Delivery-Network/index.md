@@ -1,5 +1,5 @@
 ---
-title: Content Delivery Network
+title: Content Delivery Network Explained
 date: '2020-05-20T10:00:00.000Z'
 layout: post
 draft: false
