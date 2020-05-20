@@ -11,7 +11,7 @@ tags:
   - 'Academic'
   - 'Distributed System'
 
-description: 'CDN aka Content Delivery Network is one of the best use cases of distributed system.'
+description: 'CDN aka Content Delivery Network is one of the best use cases of distributed system. It is a system that helps us to share the content globally in a cost effective way and easily manageable way.'
 ---
 
 ## A Complete Guide to CDN
@@ -112,6 +112,6 @@ GCP also provides logs to find out when content was cached and when the cache wa
 
 ## Conclusion
 
-Content Delivery Networks are a one of the mostly used scenarios of a distributed systems. It is helping all the users to share the content globally in a cost effective way and easily manageable way. As discussed CDN services are fault-tolerant, highly available, recoverable, consistent, scalable, predictable performance, secure characteristics make it a more promising technology. 😎
+Content Delivery Networks are a one of the mostly used scenarios of a distributed systems. It is a system that helps us to share the content globally in a cost effective way and easily manageable way. As discussed CDN services are fault-tolerant, highly available, recoverable, consistent, scalable, predictable performance, secure characteristics make it a more promising technology. 😎
 
 In the next article I will share a practical guide to use Google Cloud CDN to speed up your web application. Until then stay safe!
