@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Nuwan's Blog]]></title><description><![CDATA[Coder | Tech Enthusiast | Geek]]></description><link>https://blog.nuwan.dev</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 20 May 2020 11:54:51 GMT</lastBuildDate><item><title><![CDATA[Content Delivery Network]]></title><description><![CDATA[CDN aka Content Delivery Network is one of the best use cases of distributed system. It is a system that helps us to share the content globally in a cost effective way and easily manageable way.]]></description><link>https://blog.nuwan.dev/posts/cdn-explained</link><guid isPermaLink="false">https://blog.nuwan.dev/posts/cdn-explained</guid><pubDate>Wed, 20 May 2020 10:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;A Complete Guide to CDN&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Nuwan's Blog]]></title><description><![CDATA[Coder | Tech Enthusiast | Geek]]></description><link>https://blog.nuwan.dev</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 20 May 2020 12:29:27 GMT</lastBuildDate><item><title><![CDATA[Content Delivery Network Explained]]></title><description><![CDATA[CDN aka Content Delivery Network is one of the best use cases of distributed system. It is a system that helps us to share the content globally in a cost effective way and easily manageable way.]]></description><link>https://blog.nuwan.dev/posts/cdn-explained</link><guid isPermaLink="false">https://blog.nuwan.dev/posts/cdn-explained</guid><pubDate>Wed, 20 May 2020 10:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;A Complete Guide to CDN&lt;/h2&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/eb679fa564e5cecb4ea1dc00284865a9/c60e9/cover.jpg&quot;
+    href=&quot;/static/79542fe41356027d5df9e1299240aacc/c60e9/cover.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -14,17 +14,17 @@
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 72.08333333333333%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAOABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAACBf/EABQBAQAAAAAAAAAAAAAAAAAAAAL/2gAMAwEAAhADEAAAAXM5TWFWoP8A/8QAHBAAAQQDAQAAAAAAAAAAAAAAAAECAxIEERMh/9oACAEBAAEFAsdzq+ibI5qJE/oIf//EABcRAAMBAAAAAAAAAAAAAAAAAAECEBH/2gAIAQMBAT8BU7P/xAAXEQADAQAAAAAAAAAAAAAAAAABAhAR/9oACAECAQE/AXGT/8QAGhAAAgIDAAAAAAAAAAAAAAAAABABMREh4f/aAAgBAQAGPwLdHViSl//EABgQAQADAQAAAAAAAAAAAAAAAAEAESEx/9oACAEBAAE/IXM4cZUsthUjnKhlMVhsFT//2gAMAwEAAgADAAAAELcP/8QAFhEBAQEAAAAAAAAAAAAAAAAAAREQ/9oACAEDAQE/EJguf//EABcRAAMBAAAAAAAAAAAAAAAAAAEQESH/2gAIAQIBAT8QrJmL/8QAHhABAQABAwUAAAAAAAAAAAAAAREAITFBUWFxgdH/2gAIAQEAAT8QB26CuMKKj0XzCN+3luFXxKp8x94zrF7DTInhWsc//9k=&apos;); background-size: cover; display: block;&quot;
+      style=&quot;padding-bottom: 50%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAKABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAUCA//EABQBAQAAAAAAAAAAAAAAAAAAAAL/2gAMAwEAAhADEAAAAafeLdRNCv/EABwQAAIABwAAAAAAAAAAAAAAAAABAgMSEyExMv/aAAgBAQABBQKS3byQ6TdC5P/EABcRAAMBAAAAAAAAAAAAAAAAAAECECH/2gAIAQMBAT8BXRP/xAAXEQEAAwAAAAAAAAAAAAAAAAABAhAR/9oACAECAQE/AZGNf//EABkQAAIDAQAAAAAAAAAAAAAAAAEQABExQf/aAAgBAQAGPwIWXvYF/8QAHBAAAgEFAQAAAAAAAAAAAAAAAREAECExUWGh/9oACAEBAAE/IRBMeOQjf2NkYEoJdS9mqf/aAAwDAQACAAMAAAAQkA//xAAWEQEBAQAAAAAAAAAAAAAAAAABECH/2gAIAQMBAT8QWjP/xAAWEQADAAAAAAAAAAAAAAAAAAABECH/2gAIAQIBAT8QkBf/xAAcEAEBAQADAAMAAAAAAAAAAAABEQAxQVEhccH/2gAIAQEAAT8QCQxU9HjDv7/GHZN9uhDgQU3sKLcAcAfW/9k=&apos;); background-size: cover; display: block;&quot;
     &gt;
       &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;CDN Cover Image&quot;
         title=&quot;&quot;
-        src=&quot;/static/eb679fa564e5cecb4ea1dc00284865a9/c60e9/cover.jpg&quot;
-        srcset=&quot;/static/eb679fa564e5cecb4ea1dc00284865a9/f06cd/cover.jpg 240w,
-/static/eb679fa564e5cecb4ea1dc00284865a9/a5e48/cover.jpg 480w,
-/static/eb679fa564e5cecb4ea1dc00284865a9/c60e9/cover.jpg 800w&quot;
+        src=&quot;/static/79542fe41356027d5df9e1299240aacc/c60e9/cover.jpg&quot;
+        srcset=&quot;/static/79542fe41356027d5df9e1299240aacc/f06cd/cover.jpg 240w,
+/static/79542fe41356027d5df9e1299240aacc/a5e48/cover.jpg 480w,
+/static/79542fe41356027d5df9e1299240aacc/c60e9/cover.jpg 800w&quot;
         sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
       /&gt;
     &lt;/span&gt;
