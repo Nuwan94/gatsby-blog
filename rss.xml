@@ -1,4 +1,258 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Nuwan's Blog]]></title><description><![CDATA[Coder | Tech Enthusiast | Geek]]></description><link>https://blog.nuwan.dev</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 24 Mar 2020 00:45:43 GMT</lastBuildDate><item><title><![CDATA[Be a Pro-Student]]></title><description><![CDATA[As students we all like to learn new technologies, love to work on different platforms and improve our knowledge and gaining experience which we cannot get during the lectures in university. Unfortunately most of the services, tools, platforms are expensive and the undergraduate may not able to afford those.]]></description><link>https://blog.nuwan.dev/posts/be-a-pro-student</link><guid isPermaLink="false">https://blog.nuwan.dev/posts/be-a-pro-student</guid><pubDate>Fri, 03 May 2019 16:00:00 GMT</pubDate><content:encoded>&lt;p&gt;As students we all like to learn new technologies, love to work on different platforms and improve our knowledge and gaining experience which we cannot get during the lectures in university. Unfortunately most of the services, tools, platforms are expensive and the undergraduate may not able to afford those.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Nuwan's Blog]]></title><description><![CDATA[Coder | Tech Enthusiast | Geek]]></description><link>https://blog.nuwan.dev</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 20 May 2020 11:54:51 GMT</lastBuildDate><item><title><![CDATA[Content Delivery Network]]></title><description><![CDATA[CDN aka Content Delivery Network is one of the best use cases of distributed system. It is a system that helps us to share the content globally in a cost effective way and easily manageable way.]]></description><link>https://blog.nuwan.dev/posts/cdn-explained</link><guid isPermaLink="false">https://blog.nuwan.dev/posts/cdn-explained</guid><pubDate>Wed, 20 May 2020 10:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;A Complete Guide to CDN&lt;/h2&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/eb679fa564e5cecb4ea1dc00284865a9/c60e9/cover.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 800px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 72.08333333333333%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAOABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAACBf/EABQBAQAAAAAAAAAAAAAAAAAAAAL/2gAMAwEAAhADEAAAAXM5TWFWoP8A/8QAHBAAAQQDAQAAAAAAAAAAAAAAAAECAxIEERMh/9oACAEBAAEFAsdzq+ibI5qJE/oIf//EABcRAAMBAAAAAAAAAAAAAAAAAAECEBH/2gAIAQMBAT8BU7P/xAAXEQADAQAAAAAAAAAAAAAAAAABAhAR/9oACAECAQE/AXGT/8QAGhAAAgIDAAAAAAAAAAAAAAAAABABMREh4f/aAAgBAQAGPwLdHViSl//EABgQAQADAQAAAAAAAAAAAAAAAAEAESEx/9oACAEBAAE/IXM4cZUsthUjnKhlMVhsFT//2gAMAwEAAgADAAAAELcP/8QAFhEBAQEAAAAAAAAAAAAAAAAAAREQ/9oACAEDAQE/EJguf//EABcRAAMBAAAAAAAAAAAAAAAAAAEQESH/2gAIAQIBAT8QrJmL/8QAHhABAQABAwUAAAAAAAAAAAAAAREAITFBUWFxgdH/2gAIAQEAAT8QB26CuMKKj0XzCN+3luFXxKp8x94zrF7DTInhWsc//9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;CDN Cover Image&quot;
+        title=&quot;&quot;
+        src=&quot;/static/eb679fa564e5cecb4ea1dc00284865a9/c60e9/cover.jpg&quot;
+        srcset=&quot;/static/eb679fa564e5cecb4ea1dc00284865a9/f06cd/cover.jpg 240w,
+/static/eb679fa564e5cecb4ea1dc00284865a9/a5e48/cover.jpg 480w,
+/static/eb679fa564e5cecb4ea1dc00284865a9/c60e9/cover.jpg 800w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;CDN&lt;/strong&gt; aka &lt;strong&gt;Content Delivery Network&lt;/strong&gt; is one of the best use cases of distributed system. So before understand the CDN we should have a clear idea about this distributed systems. 🤓&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;A distributed system, also known as distributed computing, is a system with multiple components located on different machines that communicate and coordinate actions in order to appear as a single coherent system to the end-user. - &lt;a href=&quot;https://blog.stackpath.com/distributed-system/&quot;&gt;StackPath&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;In simple English this means the &lt;strong&gt;a group of computers&lt;/strong&gt; (or any computing devices) &lt;strong&gt;working together&lt;/strong&gt; and &lt;strong&gt;appear as a single entity to the end-user&lt;/strong&gt;. These computers doesn’t have to be in same room, building or even continent. As long as they can communicate each other using messages and transfer information from one computer to another over a network it’s a distributed System. Distributed systems also have three primary characteristics: all components run simultaneously, there is no global clock, and all components fail independently.&lt;/p&gt;
+&lt;p&gt;In summary distributed System :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The each computers works toward a common goal.&lt;/li&gt;
+&lt;li&gt;End-user of the systems views the results as single unit.&lt;/li&gt;
+&lt;li&gt;The components connected over a network to share message to synchronize with each other.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Use Cases&lt;/h3&gt;
+&lt;p&gt;Distributed systems architecture is used in concepts like Blockchain, Content Delivery Network, Domain Name Service, Torrent and also applications like Hadoop, Redis Clustering, Google Search Engine.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Let’s look into how CDN uses this distributed system concept in action. 🤔&lt;/p&gt;
+&lt;h2&gt;Content Delivery Network&lt;/h2&gt;
+&lt;p&gt;Over the years internet has growth it’s demand as a result of increasing user population. So the content of the internet got more demand and traditional client-server system failed as the transferring data between client and server getting slower and slower. There are 2 problems here.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;When lot of users try to access the same server, same time the server getting slower to respond to the requests.&lt;/li&gt;
+&lt;li&gt;More far the user is from the server will affect the response receiving time.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The simple solution for this problem is replicating content in every part of the world and maintain them to provide easy and fast access for the end users. However with the cost of maintaining servers and network them across the internet is not a financial viable for most of the business.&lt;/p&gt;
+&lt;p&gt;CDN service companies simply overcome this problem by locating dedicated CDN servers in the strategically selected geographical locations. These servers will getting synchronized with the original server continuously and cache the data (usually static content) requested by users. Then the CDN servers respond requests fast by serving those cached data to user. Since user can communicate with CDN servers near to them this become more faster. Also number of requests received by one server is reduced.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/8b875405bd5c13c35908703ecdbc3399/c60e9/compare.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 800px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 50%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAKABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIDBf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAHaZJlxiP/EABkQAAIDAQAAAAAAAAAAAAAAAAABAhExIf/aAAgBAQABBQLo7FZPRZ//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAXEAADAQAAAAAAAAAAAAAAAAAQICFR/9oACAEBAAY/AtFT/8QAGhABAQACAwAAAAAAAAAAAAAAAREAIRAxUf/aAAgBAQABPyFmzC1hdYEVR8Oboz//2gAMAwEAAgADAAAAEIPv/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oACAECAQE/EGR//8QAGxABAAMBAAMAAAAAAAAAAAAAAQARITFxkaH/2gAIAQEAAT8QDgdYqmQQh6UX2XIWamHuDHiUbk+cn//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Comparison CDN&quot;
+        title=&quot;&quot;
+        src=&quot;/static/8b875405bd5c13c35908703ecdbc3399/c60e9/compare.jpg&quot;
+        srcset=&quot;/static/8b875405bd5c13c35908703ecdbc3399/f06cd/compare.jpg 240w,
+/static/8b875405bd5c13c35908703ecdbc3399/a5e48/compare.jpg 480w,
+/static/8b875405bd5c13c35908703ecdbc3399/c60e9/compare.jpg 800w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;According to &lt;a href=&quot;https://trends.builtwith.com/CDN/Content-Delivery-Network&quot;&gt;BuiltWith&lt;/a&gt;, out of the top 10k websites in the world, 82.95% are using a CDN services to their content.&lt;/p&gt;
+&lt;p&gt;Let’s see what are the features that CDN makes promising technology.&lt;/p&gt;
+&lt;h3&gt;⚠️ Fault-Tolerant&lt;/h3&gt;
+&lt;p&gt;In distributed systems each component work independently, so that even one component failed others are working fine. Let’s see how this concept practically applied in CDN services.&lt;/p&gt;
+&lt;p&gt;In CDN data centers there are server pools and they are exposed via &lt;a href=&quot;https://en.wikipedia.org/wiki/Load_balancing_(computing)&quot;&gt;Load Balancer&lt;/a&gt; to the end users. When one of the servers failed to respond the Load Balancer automatically redirected it’s traffic to the other available servers in the pool.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/663812a51d9eb6a42a2f3754f5e719bc/c60e9/fault.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 800px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 50%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAKABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgAF/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEAMQAAAB20oMo//EABgQAAIDAAAAAAAAAAAAAAAAAAEQAhIx/9oACAEBAAEFAjZRx//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABUQAQEAAAAAAAAAAAAAAAAAACAh/9oACAEBAAY/Aov/xAAYEAEBAQEBAAAAAAAAAAAAAAABIQAREP/aAAgBAQABPyFBeB3WTLtekJv/2gAMAwEAAgADAAAAEPPP/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxA//8QAGxABAAMAAwEAAAAAAAAAAAAAAQARIRAxQVH/2gAIAQEAAT8Q7wXLwqY2tZqeRNS0oL2n3hgAAAYB5P/Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Fault-Tolerant&quot;
+        title=&quot;&quot;
+        src=&quot;/static/663812a51d9eb6a42a2f3754f5e719bc/c60e9/fault.jpg&quot;
+        srcset=&quot;/static/663812a51d9eb6a42a2f3754f5e719bc/f06cd/fault.jpg 240w,
+/static/663812a51d9eb6a42a2f3754f5e719bc/a5e48/fault.jpg 480w,
+/static/663812a51d9eb6a42a2f3754f5e719bc/c60e9/fault.jpg 800w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h3&gt;🕐 Highly Available&lt;/h3&gt;
+&lt;p&gt;The data centered of CDN network is located in strategically selected locations to provide high availability. These locations are the hot-spots where huge user traffics occurred. Also the server pools and load balancing technologies used for provide reliable service.&lt;/p&gt;
+&lt;h3&gt;♻️ Recoverable&lt;/h3&gt;
+&lt;p&gt;In case of a server failure after the traffic transferred the failed server will be diagnosed and restarted automatically. Some CDN services backup the server state.&lt;/p&gt;
+&lt;h3&gt;📌 Consistency&lt;/h3&gt;
+&lt;p&gt;A CDN system have a map like routing paths and when user requests it can find the optimized path to reach the closest server and in case of failure of the whole server pool in data server it will be routed to secondly closest data center.&lt;/p&gt;
+&lt;h3&gt;🛠 Scalability&lt;/h3&gt;
+&lt;p&gt;In most CDN services scalability is happen automatically by analyzing user requests and scale up or down accordingly. In some cloud CDN you can configure this to manage cost effective business solution.&lt;/p&gt;
+&lt;h3&gt;🔮 Predictable Performance&lt;/h3&gt;
+&lt;p&gt;Automatically offloading requests to a standby components that have available capacity CDN prevent disruption of service to end-users. Fault-tolerant, scalable, consistent CDN always give the predictable results to it’s end users.&lt;/p&gt;
+&lt;h3&gt;🔐 Security&lt;/h3&gt;
+&lt;p&gt;To protect the data while transferring CDN networks use &lt;strong&gt;Transport Layer Security&lt;/strong&gt; (TLS)/&lt;strong&gt;Secure Sockets Layer&lt;/strong&gt; (SSL) as basic steps. Basically that means content are served using “https://” URLs rather than “http://” URLs. For DDoS attacks CDN uses special software based solutions to analyze the data traffics and mitigate the attack.&lt;/p&gt;
+&lt;h2&gt;Google Cloud CDN&lt;/h2&gt;
+&lt;p&gt;Google Cloud Platform (GCP) offers it’s own CDN service to their customers, using their vastly distributed infrastructures.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/7277bdee2d37e0e57a14a21bfbb6dd65/a331c/gcp-infrastructure.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 800px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 53.333333333333336%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAIAAADwazoUAAAACXBIWXMAAAsSAAALEgHS3X78AAABc0lEQVQoz4VSXW/jIBD0//9T93APpz6kp5NSXZSLHYwTzKdNjAFjY9xN0rppH3qj1QoJZnc0Q7Z8Rkpp7f9Ftp5ijMb0rdaU8TOp5xvSHcvi/TDH+Ss5LalpWi5kTZmQsrdWSqmUWm4Efelu4xgqMUykFB7KIQzv5JSc81I1h7ygXMKl6f0Ql4aTw+ZHcURHVEIBOS+OwLS2jxEULdAy2gZ2mUVjfz//2Tz9yncvnU99WFCB9s8/z6cKYVziCvhnQqRslIniErgeaTtmU0wwA4px9Xe7laoFPVOcT4RVtcCnGuHzYb8rQXaFibDGTaYfxrga9uZtuth4rJho3RgT5QqhskC47bzWHSFMaXt1LqT5PYosPngIKvCJ5EWpzdUSMBA2z7f7wVnnvfND5+KaY1aWiHPunLtnW1Ox3/8bpwnOQum6rtfMVaNyhK0bP6IKIQDTew85Xwmcmb5/EzLND7rSFKM1ZgzhY/OX3O87v8Hj13sFMLh3CNUC8BMAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;GCP Network Infrastructure&quot;
+        title=&quot;&quot;
+        src=&quot;/static/7277bdee2d37e0e57a14a21bfbb6dd65/a331c/gcp-infrastructure.png&quot;
+        srcset=&quot;/static/7277bdee2d37e0e57a14a21bfbb6dd65/58794/gcp-infrastructure.png 240w,
+/static/7277bdee2d37e0e57a14a21bfbb6dd65/3166f/gcp-infrastructure.png 480w,
+/static/7277bdee2d37e0e57a14a21bfbb6dd65/a331c/gcp-infrastructure.png 800w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;It can be easily configured to your current cloud application with few steps via GCP console (or command line tool) and BOOM! your application get faster. Diagram below shows the architecture of one possible scenario to use Google Cloud CDN.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/3d8bc6c202652df64f71dc6a6ed24c66/c60e9/gcp-use-case.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 800px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 45.833333333333336%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAJABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAIBBf/EABUBAQEAAAAAAAAAAAAAAAAAAAEA/9oADAMBAAIQAxAAAAHvKyJCf//EABQQAQAAAAAAAAAAAAAAAAAAACD/2gAIAQEAAQUCX//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABQQAQAAAAAAAAAAAAAAAAAAACD/2gAIAQEABj8CX//EABgQAAMBAQAAAAAAAAAAAAAAAAEQMQAh/9oACAEBAAE/IcZ1mL//2gAMAwEAAgADAAAAEIQv/8QAFREBAQAAAAAAAAAAAAAAAAAAARD/2gAIAQMBAT8QZ//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABwQAAICAgMAAAAAAAAAAAAAAAABESEQMVFhgf/aAAgBAQABPxBNxz6TlCuisbh7P//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;GCP Use Case&quot;
+        title=&quot;&quot;
+        src=&quot;/static/3d8bc6c202652df64f71dc6a6ed24c66/c60e9/gcp-use-case.jpg&quot;
+        srcset=&quot;/static/3d8bc6c202652df64f71dc6a6ed24c66/f06cd/gcp-use-case.jpg 240w,
+/static/3d8bc6c202652df64f71dc6a6ed24c66/a5e48/gcp-use-case.jpg 480w,
+/static/3d8bc6c202652df64f71dc6a6ed24c66/c60e9/gcp-use-case.jpg 800w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;GCP also provides logs to find out when content was cached and when the cache was accessed.&lt;/p&gt;
+&lt;h3&gt;Other CDN Providers&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Cloudflare&lt;/strong&gt; provide the most powerful CDN service with more than 180 data centers around the world. Additionally it defends your application from Distributed Denial of Service aka DDoS attacks and malicious content.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;StackPath&lt;/strong&gt; (previously MaxCDN) is a CDN service for WordPress websites.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;cdnjs &amp;#x26; jsDeliver&lt;/strong&gt; are specific CDN networks for serving JavaScript and CSS libraries.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Google Fonts&lt;/strong&gt; also a kind of CDN that specifically serve fonts for websites.&lt;/li&gt;
+&lt;li&gt;Amazon Web Services (AWS) offers the &lt;strong&gt;CloudFront&lt;/strong&gt; as their cloud applications and also other use cases.&lt;/li&gt;
+&lt;li&gt;Microsoft provides &lt;strong&gt;Azure CDN&lt;/strong&gt; services to the their cloud platform customers.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/b8b7cb008dbf5692612010ae7b2d149e/a331c/cdnperf.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 800px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 39.583333333333336%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAICAIAAAB2/0i6AAAACXBIWXMAAAsSAAALEgHS3X78AAABAklEQVQY032R227DIBBE8/9/lzpVkj5WijEXu/Eul13AVhfaqGoVFY0QQhxmGA61VkQP6GNMtQ/OGUJITAt5HVcdVhcRKATyTQlDwBDbfMg5G+uUtgJv2yZwLnmJSJkv3rzgKHoLZmJQ9BCjYpAdgYu1szEuJSqlbHXjBoPAwpxQiWShCabf0tydnVvEHAAlsJj/wN4MoE4wnv3UTj+H58W65b6uMcYH3GKfvT7CTSRXKFo14V9Yolo3q0knou/CHs7XYAavBlSvfhr/gSU5M/e+GvzRna9SGIwSW559S3c5/QQ2dpav2ve91Co4lTx3Z2n7CKM4S+HvcbGMur/8S4bxE4oIxKc9cjuVAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;CDN Service Performance Statistics&quot;
+        title=&quot;&quot;
+        src=&quot;/static/b8b7cb008dbf5692612010ae7b2d149e/a331c/cdnperf.png&quot;
+        srcset=&quot;/static/b8b7cb008dbf5692612010ae7b2d149e/58794/cdnperf.png 240w,
+/static/b8b7cb008dbf5692612010ae7b2d149e/3166f/cdnperf.png 480w,
+/static/b8b7cb008dbf5692612010ae7b2d149e/a331c/cdnperf.png 800w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h2&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Content Delivery Networks are a one of the mostly used scenarios of a distributed systems. It is a system that helps us to share the content globally in a cost effective way and easily manageable way. As discussed CDN services are fault-tolerant, highly available, recoverable, consistent, scalable, predictable performance, secure characteristics make it a more promising technology. 😎&lt;/p&gt;
+&lt;p&gt;In the next article I will share a practical guide to use Google Cloud CDN to speed up your web application. Until then stay safe!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Be a Pro-Student]]></title><description><![CDATA[As students we all like to learn new technologies, love to work on different platforms and improve our knowledge and gaining experience which we cannot get during the lectures in university. Unfortunately most of the services, tools, platforms are expensive and the undergraduate may not able to afford those.]]></description><link>https://blog.nuwan.dev/posts/be-a-pro-student</link><guid isPermaLink="false">https://blog.nuwan.dev/posts/be-a-pro-student</guid><pubDate>Fri, 03 May 2019 16:00:00 GMT</pubDate><content:encoded>&lt;p&gt;As students we all like to learn new technologies, love to work on different platforms and improve our knowledge and gaining experience which we cannot get during the lectures in university. Unfortunately most of the services, tools, platforms are expensive and the undergraduate may not able to afford those.&lt;/p&gt;
 &lt;p&gt;But luckily, there are some awesome companies that think about this problem and giveaway their products &amp;#x26; services FREE for any university student while they are in university.&lt;/p&gt;
 &lt;h2&gt;Requirements&lt;/h2&gt;
 &lt;p&gt;For applying these offers you must have a email address given by university. Most of the time its a academic email that have &lt;code class=&quot;language-text&quot;&gt;.ac&lt;/code&gt; (academic) or &lt;code class=&quot;language-text&quot;&gt;.edu&lt;/code&gt; (educational) sub-domain/domain.&lt;/p&gt;
